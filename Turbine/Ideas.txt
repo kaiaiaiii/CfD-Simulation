@@ -1,0 +1,1 @@
+Grundlegende Idee: Simulation einer Turbine in Openfoam, weil Starccm mir zu teuer ist
